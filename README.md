@@ -30,30 +30,35 @@ Welcome aboard! This project explores the Titanic dataset to analyze survival ou
 
 ### 📋 1. Summary Statistics
 A snapshot of central tendency and dispersion for numerical features.
+
 ![Summary Statistics Screenshot](ss/summary.png)
 
 ---
 
 ### 📈 2. Histograms: Age & Fare Distribution
 Visualizing how Age and Fare are distributed across passengers.
+
 ![Histogram Screenshot](ss/bar.png)
 
 ---
 
 ### 📦 3. Boxplots: Age & Fare by Survival Status
 Compare distribution and outliers in Age and Fare across survival groups.
+
 ![Boxplot Screenshot](ss/box.png)
 
 ---
 
 ### 🔥 4. Correlation Matrix (Heatmap)
 Identify relationships between numerical variables (e.g., Age, Fare, Pclass).
+
 ![Correlation Matrix Screenshot](ss/correlation.png)
 
 ---
 
 ### 🧍‍♂️🧍‍♀️ 5. Categorical Feature: Pclass vs Survival
 Analyzing how survival rates varied by passenger class.
+
 ![Pclass vs Survival Screenshot](ss/compare.png)
 ---
 
